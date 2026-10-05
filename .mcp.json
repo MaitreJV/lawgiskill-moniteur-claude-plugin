@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lawgiskill-moniteur": {
+      "type": "http",
+      "url": "https://moniteur-mcp.lawgi.tech/mcp"
+    }
+  }
+}

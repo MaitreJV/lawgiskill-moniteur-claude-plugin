@@ -1,0 +1,20 @@
+{
+  "name": "lawgiskill-moniteur",
+  "displayName": "LawgiSkill Moniteur",
+  "version": "0.1.0",
+  "description": "Limited, read-only keyword search of Belgian Official Gazette (Moniteur belge / Belgisch Staatsblad) publication metadata in French and Dutch, with links to the official eJustice source when available, plus a citation skill that reports search limits. No account or token required. Completeness and freshness are not guaranteed; no consolidated texts, in-force status or legal advice.",
+  "author": {
+    "name": "Online Solution Attorney SRL",
+    "email": "hello@lawgi.tech",
+    "url": "https://lawgi.tech"
+  },
+  "homepage": "https://lawgi.tech",
+  "repository": "https://github.com/MaitreJV/lawgiskill-moniteur-claude-plugin",
+  "license": "MIT",
+  "keywords": ["belgium", "official-gazette", "moniteur-belge", "belgisch-staatsblad", "legal-research"],
+  "icon": "./assets/lawgiskill-logo.png",
+  "documentationUrl": "https://github.com/MaitreJV/lawgiskill-moniteur-claude-plugin#readme",
+  "supportUrl": "https://lawgi.tech/contact/",
+  "privacyPolicyUrl": "https://lawgi.tech/legal/privacy/",
+  "termsOfServiceUrl": "https://lawgi.tech/legal/cgu/"
+}
