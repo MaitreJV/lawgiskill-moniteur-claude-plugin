@@ -1,5 +1,7 @@
 # LawgiSkill Moniteur
 
+![LawgiSkill logo](assets/lawgiskill-logo.png)
+
 LawgiSkill Moniteur lets Claude run a limited, read-only keyword search of Belgian Official Gazette (Moniteur belge / Belgisch Staatsblad) publication metadata, in French or Dutch, with optional publication-date filters. Results can include the title, NUMAC, publication and promulgation dates, and a link to eJustice, the official publication source. A citation skill tells Claude how to present these results and their coverage limits.
 
 The service is free and needs no account, API key or token.
@@ -12,7 +14,7 @@ Published by Online Solution Attorney SRL (OSA), Brussels — <https://lawgi.tec
 | --- | --- |
 | `.mcp.json` | References the remote MCP server `https://moniteur-mcp.lawgi.tech/mcp` (no authentication). It exposes one read-only tool, `moniteur_rechercher`. |
 | `skills/moniteur-citations/` | Instructions for searching and for citing results: dated references, eJustice links, reported limits, honest handling of empty results and errors. |
-| `assets/lawgiskill-logo.png` | Listing icon. |
+| Logo (assets folder) | Listing icon, shown above. |
 
 The plugin contains no executable code, hooks, commands or agents.
 
