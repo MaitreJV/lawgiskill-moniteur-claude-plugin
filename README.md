@@ -54,4 +54,4 @@ Do not put personal data in search keywords. Processing by OSA, including techni
 
 ## License
 
-MIT — see [LICENSE](LICENSE). The license covers the files in this repository (manifest, skill text, documentation). It does not grant rights to the LawgiSkill name and logo, or to the remote service.
+The files in this repository (manifest, skill text, documentation) are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) — see [LICENSE](LICENSE). Commercial reuse of these files is not permitted. The LawgiSkill name and logo are not covered by this license, and the license grants no right to the remote service beyond its published terms.

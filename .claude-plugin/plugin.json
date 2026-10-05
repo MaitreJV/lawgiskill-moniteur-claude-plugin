@@ -10,7 +10,7 @@
   },
   "homepage": "https://lawgi.tech",
   "repository": "https://github.com/MaitreJV/lawgiskill-moniteur-claude-plugin",
-  "license": "MIT",
+  "license": "CC-BY-NC-4.0",
   "keywords": ["belgium", "official-gazette", "moniteur-belge", "belgisch-staatsblad", "legal-research"],
   "icon": "./assets/lawgiskill-logo.png",
   "documentationUrl": "https://github.com/MaitreJV/lawgiskill-moniteur-claude-plugin#readme",
